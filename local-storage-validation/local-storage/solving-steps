@@ -1,0 +1,7 @@
+steps to solve  login page task
+
+
+-> On click of button get the username/password
+-> validate them
+-> if validate passes - and if we have localstorage data, compare them with local storage data
+-> if username/password matches redirect user to home page else show alert
